@@ -4,3 +4,10 @@
 
 ### Stock Inventory System
 ##### An Stock Inventory System is a system on which where you track your items through the entire process it spends on your company. It includes purchasing, distribution, storing, and managing the company's inventory. It helps to track your inventory to prevent overstocking and understocking.
+
+##### Sub-systems include:
+* Item quantity
+* Item name
+* Item price
+* Item defects 
+* Item distribution 
