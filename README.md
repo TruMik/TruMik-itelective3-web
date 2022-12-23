@@ -1,2 +1,2 @@
-# TruMik-itelective3-web
-# H1 LGU - DAVAO
+# LGU - DAVAO
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
